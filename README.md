@@ -33,6 +33,7 @@ La base de su arquitectura es robusta y escalable:
 * **Herramienta "Moderna" (2025/2026):**
     * `React`: La librería principal para sus interfaces.
     * `Next.js`: Implementado para la renderización del lado del servidor (SSR), mejorando la velocidad de carga inicial.
+![camaleon](https://github.com/user-attachments/assets/28f66898-a5f5-4169-8ad4-4637d02f1f7f)
 
 ---
 
